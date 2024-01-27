@@ -1,0 +1,24 @@
+Downloaded from https://wokwi.com/projects/376289107916732417
+
+Simulate this project on https://wokwi.com
+
+
+
+
+
+# Instructions:
+
+Follow: https://esp-rs.github.io/book/installation/riscv-and-xtensa.html
+
+so cargo binstall espup
+
+and espup install
+
+Add to it to zsh
+
+cat $HOME/export-esp.sh >> ~/.zshrc
+source ~/.zshrc
+
+
+Still doesn't work, will update ubuntu
+
