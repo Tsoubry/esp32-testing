@@ -20,5 +20,7 @@ cat $HOME/export-esp.sh >> ~/.zshrc
 source ~/.zshrc
 
 
-Still doesn't work, will update ubuntu
+Better to start project from more up to date projecte like https://github.com/georgik/esp32-conways-game-of-life-rs
+
+
 
